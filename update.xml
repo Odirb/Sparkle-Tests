@@ -4,15 +4,21 @@
         <title>TestSparkel2</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 28 Nov 2019 11:43:59 +0100</pubDate>
+            <pubDate>Thu, 28 Nov 2019 15:31:03 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://sparkle-tests.herokuapp.com/TestSparkel2-1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.1" length="1761013" type="application/octet-stream" sparkle:edSignature="OsYjJ8lFW2xCUmQ7a4dXs4F2mC7teazeQ1RLPuqHCLdQHgE2ZEvbu3B/NCcO64aLY1oXTgP3wv3Gldgqy1yRDA=="/>
+            <enclosure url="https://sparkle-tests.herokuapp.com/TestSparkel2-1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.1" length="1761056" type="application/octet-stream" sparkle:edSignature="bYaK6U2iuyUAYjS0YvED49Zn5mNkEmM4tBejHzB76MeHIl332y45FVkbfoQI7UdYnPDNw44gbZNJcml1AScoBw=="/>
         </item>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 28 Nov 2019 11:39:05 +0100</pubDate>
+            <pubDate>Thu, 28 Nov 2019 15:29:38 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://sparkle-tests.herokuapp.com/TestSparkel2.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="1767514" type="application/octet-stream" sparkle:edSignature="pd22h9IVulASZhmeUgCdQxQmnL8XZdRJWR1IWbcxj43w8MtPZ3g9XJiVl1MnfrFnxYJZ1C47qQeWmF6f+ztVBA=="/>
+            <enclosure url="https://sparkle-tests.herokuapp.com/TestSparkel2-1.0.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="1761035" type="application/octet-stream" sparkle:edSignature="F++SmkAs/3Gzg82t5SQ2LH5Vif36QpJ4r18cHbBwgEcVCTr7bZ3SSOhUeef9YjI4mHW9iXtM4cl30jMbct5SAg=="/>
+        </item>
+        <item>
+            <title>1.2</title>
+            <pubDate>Thu, 28 Nov 2019 15:32:21 +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://sparkle-tests.herokuapp.com/TestSparkel2-1.2.zip" sparkle:version="1" sparkle:shortVersionString="1.2" length="1761042" type="application/octet-stream" sparkle:edSignature="GHJj2eNjDEa4+1ehbeVWw1Vq+DcwDjTOKyA8tf7zAraSTG60ZWMFeGayIBMNsFCvnimEStHDxSrNRL79mSEuCg=="/>
         </item>
     </channel>
 </rss>
